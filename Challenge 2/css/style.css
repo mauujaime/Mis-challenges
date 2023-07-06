@@ -1,0 +1,275 @@
+.conteiner{
+    position: relative;
+}
+.image{
+   text-align: center;
+}
+
+.img{
+    width: 286.83px;
+    height: 238px;
+    top: 109px;
+    left: 44px;
+}
+
+
+.title_1{
+    color: #333;
+    font-size: 24px;
+    font-family:inconsolata;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -1.92px;
+}
+
+
+.title{
+    width: 350px;
+    height: 142px;
+    top: 407px;
+    left: 24px;
+}
+
+
+
+.title h1{
+    font-size: 48px;
+    font-family: monospace;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 71.09px;
+    margin-left: 25px;
+    text-align: left;
+    letter-spacing: -1.68px;
+}
+
+
+.subtitle{
+    width: 328px;
+    height: 81px;
+    top: 579px;
+    left: 23px;
+   
+
+}
+
+
+.subtitle p{
+    padding-left: 10px;
+    color: var(--gray-2,#4F4F4F);
+    font-size: 18px;
+    font-family: monospace;
+    font-size: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.63px;
+    text-align: left;
+    
+
+}
+.button-space{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.button-space{
+    padding-left: 10px;
+}
+
+.button-bg{
+    background-color: #333;
+    width: 200px;
+    height: 48px;
+    position: relative;
+
+}
+
+.button-text{
+    padding-left: 40px;
+    text-align: center;
+    color: #FFF;
+    font-size: 14px;
+    font-family: monospace;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0,49px;
+    position: absolute;
+}
+
+.footer{
+    width: 287px;
+height: 17px;
+top: 908px;
+left: 46px;
+position: absolute;
+
+}
+
+
+.footer p{
+    color: #BDBDBD;
+    text-align: center;
+    font-size: 14px;
+    font-family:monospace;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+    
+
+}
+
+@media (min-width:880px){
+
+
+    
+
+
+    .image{
+        width: 539.2236938476562px;
+        height: 447.4263916015625px;
+        margin: 265px 824px 368px 77px;
+       
+
+     }
+     
+     .img{
+        width: 539.224px;
+        height: 447.426px;
+     }
+     
+
+     .first-title{
+        width: 133px;
+        height: 25px;
+        top: 40px;
+        left: 77px;
+        
+
+     }
+     
+
+
+     .title_1{
+         color: #333;
+         font-size: 24px;
+         font-family:inconsolata;
+         font-style: normal;
+         font-weight: 700;
+         line-height: normal;
+         letter-spacing: -1.92px;
+         text-align: left;
+     }
+
+
+     .title{
+        width: 586px;
+        height: 190px;
+        top: 265px;
+        left: 735px;
+        text-align: left;
+        position: absolute;
+        
+        
+
+     }
+     
+
+     .title h1{
+        color: var(--gray-1, #333);
+        font-size: 64px;
+        font-family: monospace;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 95px;
+        letter-spacing: -2.24px;
+        margin: auto;
+     }
+     
+     
+     .subtitle{
+        width: 381px;
+        height: 108px;
+        top: 491px;
+        left: 736px;
+        position: absolute;
+        margin: auto;
+
+     }
+     
+     
+     .subtitle p{
+    padding-left: 10px;
+    color: var(--gray-2,#4F4F4F);
+    font-family: monospace;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: -0.84px;
+    margin: auto;
+     
+     }
+    
+     
+     .button-space{
+        width: 216px;
+        height: 68px;
+        top: 663px;
+        left: 740px;
+        margin: auto;
+        position:absolute;
+     }
+     
+     .button-space{
+         padding-left: 10px;
+     }
+     
+     .button-bg{
+         background-color: #333;
+         width: 200px;
+         height: 48px;
+         position: relative;
+     
+     }
+     
+     .button-text{
+         padding-left: 40px;
+         text-align: center;
+         color: #FFF;
+         font-size: 14px;
+         font-family: monospace;
+         font-style: normal;
+         font-weight: 700;
+         line-height: normal;
+         letter-spacing: -0,49px;
+         position: absolute;
+     }
+     
+     .footer{
+        width: 287px;
+        height: 17px;
+        top: 1039px;
+        left: 577px;
+        
+    position: absolute;
+    
+    }
+    
+    
+    .footer p{
+        color: #BDBDBD;
+        text-align: center;
+        font-size: 14px;
+        font-family:monospace;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+      
+        
+    
+    }
+    
+
+}
